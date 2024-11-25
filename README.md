@@ -25,6 +25,9 @@ I'm a **Machine Learning Engineer** with a strong foundation in AI and Data Scie
 <a href="https://linkedin.com/in/vishvashofficial">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.youtube.com/@vishvashofficial">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 <a href="https://huggingface.co/vishvash96">
   <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
