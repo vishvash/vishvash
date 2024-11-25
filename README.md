@@ -15,7 +15,7 @@ I'm a **Machine Learning Engineer** with a strong foundation in AI and Data Scie
 </div>
 
 
-## 🌐 Connect with Me
+## 🌎 Connect with Me
 
 
 <div align="center">
